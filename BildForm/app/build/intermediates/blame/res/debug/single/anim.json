@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/shagos/.android/build-cache/224de99082fe5068a65329875bdb4862cc1c23a2/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shagos/.android/build-cache/224de99082fe5068a65329875bdb4862cc1c23a2/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/shagos/.android/build-cache/224de99082fe5068a65329875bdb4862cc1c23a2/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/shagos/.android/build-cache/224de99082fe5068a65329875bdb4862cc1c23a2/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shagos/.android/build-cache/224de99082fe5068a65329875bdb4862cc1c23a2/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/shagos/.android/build-cache/224de99082fe5068a65329875bdb4862cc1c23a2/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

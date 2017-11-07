@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shagos/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.2/64950d33e2d3095cc831b414063bea45524103d4/httpclient-4.4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.4.1.2_315ad6c9b8e983be0fccd3bba49fe301aa8f6263/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dda83b1b57bd2ef9211e650a917fb15122da573a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75cd70378e5df62cb2b5ad49fcb95a32cd761c9d">
+        <dex dex="/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c45a87d819d8b4a2956796311c39c52e4b2e7359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shagos/.android/build-cache/16284260668e63b2fdb473ae24515e03cb011c89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a029dda0fa9ef8582d4d9838236cad6af85bbc8f">
+        <dex dex="/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_758ce238a8b31e6630526fc7697b7f9e94b4e131/classes.dex" />
+    </item>
+
+</items>

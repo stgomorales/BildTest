@@ -1,0 +1,7 @@
+#Tue Nov 07 03:23:54 CLST 2017
+base.0=/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c45a87d819d8b4a2956796311c39c52e4b2e7359
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dda83b1b57bd2ef9211e650a917fb15122da573a/classes.dex
+base.1=/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dda83b1b57bd2ef9211e650a917fb15122da573a
+file.0=/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c45a87d819d8b4a2956796311c39c52e4b2e7359/classes.dex

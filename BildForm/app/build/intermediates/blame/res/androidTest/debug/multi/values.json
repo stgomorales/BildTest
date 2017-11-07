@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/shagos/.android/build-cache/6ce8671b88abd12be459da3e31b88e719f76d811/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

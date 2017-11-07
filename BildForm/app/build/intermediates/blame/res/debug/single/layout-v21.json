@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shagos/.android/build-cache/7f32cfd6bc08ec9fa150034e1eae78ece467f630/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

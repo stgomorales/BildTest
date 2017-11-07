@@ -1,0 +1,4 @@
+#Tue Nov 07 03:23:54 CLST 2017
+base.0=/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/shagos/Desarrollos/Bild/BildForm/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
