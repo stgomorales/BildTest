@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BildForm</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- AlertDialog buttons -->
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancelar</string>
+
+    <!-- LoginFragment -->
+    <string name="login_user">Usuario</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_title">Formulario Dimamico BildChile</string>
+
+    <!-- SettingsFragment -->
+    <string name="settings_ip">IP</string>
+    <string name="settings_port">Port</string>
+    <string name="settings_button">Guardar</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_message_title">Settings</string>
+    <string name="settings_success">Parametros Almacenados\nExitosamente</string>
+    <string name="settings_error">Error al almacenar Parametros</string>
+
+    <!-- FormFragment -->
+    <string name="form_button">Buscar Formularios</string>
+    <string name="form_message_title">Formularios</string>
+    <string name="form_success">Formularios obtenidos\n Exitosamente</string>
+    <string name="form_error">Error al obtener Formularios</string>
+    <string name="form_title_hint">Título</string>
+    <string name="form_required">"* Campo Obligatorio"</string>
+
+    <!-- Token messagges -->
+    <string name="token_tittle">Token</string>
+    <string name="token_success">Token obtenido\Exitosamente</string>
+    <string name="token_error">Error al obtener Token</string>
+
+
+    <!-- Solicitud de permisos -->
+    <string name="permission_msg">Se necesitan permisos para la aplicación</string>
+    <string name="permission_config">Configuración</string>
+    <string name="permission_cancel">Cancelar</string>
+
+</resources>

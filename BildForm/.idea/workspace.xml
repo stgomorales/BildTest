@@ -121,8 +121,8 @@
       <file leaf-file-name="FormFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/stgo/bildform/Fragment/FormFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
+            <state relative-caret-position="137">
+              <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2669#2823#0" expanded="true" />
@@ -3942,8 +3942,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/stgo/bildform/Fragment/FormFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
+        <state relative-caret-position="137">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2669#2823#0" expanded="true" />
